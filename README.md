@@ -1,2 +1,2 @@
 # pihole
-lists n stuff
+k imma tryin regexs n stuff
